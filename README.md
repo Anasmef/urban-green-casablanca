@@ -8,9 +8,9 @@
 
 | NDVI — 2024 | NDVI — 2025 |
 |---|---|
-| ![Distribution du NDVI en 2024](maps/casablanca_ndvi_2024.jpg) | ![Distribution du NDVI en 2025](maps/casablanca_ndvi_2025.jpg) |
+| ![Distribution du NDVI en 2024](maps/Casablanca_ndvi_2024.jpg) | ![Distribution du NDVI en 2025](maps/casablanca_ndvi_2025.jpg) |
 
-![Variation spatiale du NDVI entre 2024 et 2025](maps/casablanca_delta_ndvi_2024_2025.jpg)
+![Variation spatiale du NDVI entre 2024 et 2025](maps/Casablanca_Variation_2024_2025.jpg)
 
 > Les images ci-dessus doivent être ajoutées au dossier `maps/` avec ces noms exacts. Elles sont issues des mises en page QGIS, pas des images de démonstration.
 
